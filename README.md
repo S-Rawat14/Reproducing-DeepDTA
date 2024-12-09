@@ -4,3 +4,5 @@
 
 * **Architecture of Model**
 * ![image](https://github.com/user-attachments/assets/ee3177ee-c911-4a05-ac7e-86ee60a34c6c)
+* **Parameters**
+* ![image](https://github.com/user-attachments/assets/9bff46e3-4cee-4af2-bd94-4ff43e48bbf7)
